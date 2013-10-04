@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  4 OCT 2013 12:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  4 OCT 2013 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -106,414 +106,500 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <20.74> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
 \c@sv@footnote=\count99
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (51.41495pt too high) has occurred while \output is active []
+Overfull \vbox (62.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 77.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (50.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 78.01498pt
+Extra height:10.0pt when 90.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (49.41495pt too high) has occurred while \output is active []
+Overfull \vbox (61.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 79.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (48.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 80.01498pt
+Extra height:10.0pt when 91.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (47.41495pt too high) has occurred while \output is active []
+Overfull \vbox (60.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 81.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (46.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 82.01498pt
+Extra height:10.0pt when 92.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (45.41495pt too high) has occurred while \output is active []
+Overfull \vbox (59.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 83.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (44.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 84.01498pt
+Extra height:10.0pt when 93.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (43.41495pt too high) has occurred while \output is active []
+Overfull \vbox (58.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 85.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (42.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 86.01498pt
+Extra height:10.0pt when 94.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (41.41495pt too high) has occurred while \output is active []
+Overfull \vbox (57.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 87.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (40.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 88.01498pt
+Extra height:10.0pt when 95.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (39.41495pt too high) has occurred while \output is active []
+Overfull \vbox (56.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 89.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (38.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 90.01498pt
+Extra height:10.0pt when 96.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (37.41495pt too high) has occurred while \output is active []
+Overfull \vbox (55.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 91.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (36.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 92.01498pt
+Extra height:10.0pt when 97.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (35.41495pt too high) has occurred while \output is active []
+Overfull \vbox (54.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 93.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (34.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 94.01498pt
+Extra height:10.0pt when 98.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (33.41495pt too high) has occurred while \output is active []
+Overfull \vbox (53.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 95.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (32.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 96.01498pt
+Extra height:10.0pt when 99.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (31.41495pt too high) has occurred while \output is active []
+Overfull \vbox (52.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 97.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (30.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 98.01498pt
+Extra height:10.0pt when 100.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (29.41495pt too high) has occurred while \output is active []
+Overfull \vbox (51.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 99.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (28.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 100.01498pt
+Extra height:10.0pt when 101.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (27.41495pt too high) has occurred while \output is active []
+Overfull \vbox (50.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 101.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (26.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 102.01498pt
+Extra height:10.0pt when 102.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (25.41495pt too high) has occurred while \output is active []
+Overfull \vbox (49.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 103.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (24.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 104.01498pt
+Extra height:10.0pt when 103.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (23.41495pt too high) has occurred while \output is active []
+Overfull \vbox (48.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 105.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (22.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 106.01498pt
+Extra height:10.0pt when 104.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (21.41495pt too high) has occurred while \output is active []
+Overfull \vbox (47.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 107.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (20.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 108.01498pt
+Extra height:10.0pt when 105.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (19.41495pt too high) has occurred while \output is active []
+Overfull \vbox (46.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 109.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (18.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 110.01498pt
+Extra height:10.0pt when 106.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (17.41495pt too high) has occurred while \output is active []
+Overfull \vbox (45.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 111.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (16.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 112.01498pt
+Extra height:10.0pt when 107.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (15.41495pt too high) has occurred while \output is active []
+Overfull \vbox (44.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 113.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (14.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 114.01498pt
+Extra height:10.0pt when 108.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (13.41495pt too high) has occurred while \output is active []
+Overfull \vbox (43.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 115.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (12.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 116.01498pt
+Extra height:10.0pt when 109.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (11.41495pt too high) has occurred while \output is active []
+Overfull \vbox (42.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 117.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (10.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 118.01498pt
+Extra height:10.0pt when 110.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (9.41495pt too high) has occurred while \output is active []
+Overfull \vbox (41.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 119.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (8.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 120.01498pt
+Extra height:10.0pt when 111.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (7.41495pt too high) has occurred while \output is active []
+Overfull \vbox (40.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 121.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (6.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 122.01498pt
+Extra height:10.0pt when 112.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (5.41495pt too high) has occurred while \output is active []
+Overfull \vbox (39.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 123.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (4.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 124.01498pt
+Extra height:10.0pt when 113.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (3.41495pt too high) has occurred while \output is active []
+Overfull \vbox (38.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 125.01498pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (2.41495pt too high) has occurred while \output is active []
-
-Extra height:10.0pt when 126.01498pt
+Extra height:10.0pt when 114.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (1.41495pt too high) has occurred while \output is active []
+Overfull \vbox (37.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 127.01498pt
+Extra height:10.0pt when 115.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \vbox (0.41495pt too high) has occurred while \output is active []
+Overfull \vbox (36.36057pt too high) has occurred while \output is active []
 
-Extra height:10.0pt when 128.01498pt
-Extra height:0.0pt when 129.01498pt
-(2)Left:129.01498pt Right:10.0pt Output:129.01498pt
+Extra height:10.0pt when 116.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (35.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 117.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (34.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 118.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (33.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 119.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (32.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 120.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (31.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 121.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (30.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 122.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (29.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 123.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (28.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 124.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (27.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 125.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (26.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 126.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (25.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 127.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (24.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 128.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (23.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 129.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (22.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 130.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (21.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 131.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (20.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 132.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (19.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 133.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (18.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 134.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (17.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 135.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (16.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 136.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 137.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (14.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 138.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (13.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 139.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (12.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 140.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (11.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 141.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (10.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 142.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (9.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 143.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (8.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 144.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 145.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 146.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 147.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 148.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (3.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 149.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (2.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 150.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 151.96063pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (0.36057pt too high) has occurred while \output is active []
+
+Extra height:10.0pt when 152.96063pt
+Extra height:0.0pt when 153.96063pt
+(2)Left:153.96063pt Right:10.0pt Output:153.96063pt
 - LAST -
 Extra skip:0.0pt
-Left:129.01498pt
+Left:153.96063pt
 Right:10.0pt
-Output:129.01498pt
+Output:153.96063pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 117.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 119.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 117.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 117.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 117.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 119.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] (./PPIO_SWJ.aux) ) 
 Here is how much of TeX's memory you used:
- 1085 strings out of 495059
- 11632 string characters out of 3182030
+ 1106 strings out of 495059
+ 11865 string characters out of 3182030
  56705 words of memory out of 3000000
- 4318 multiletter control sequences out of 15000+200000
- 28387 words of font info for 40 fonts, out of 3000000 for 9000
+ 4332 multiletter control sequences out of 15000+200000
+ 36314 words of font info for 52 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,10n,25p,170b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,10n,25p,170b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on PPIO_SWJ.pdf (1 page, 41763 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on PPIO_SWJ.pdf (1 page, 70623 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
