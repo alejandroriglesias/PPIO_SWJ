@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{OPPL-Galaxy-JBMS}
+M.~E. Aranguren, J.~T.~F. Breis, E.~Antezana, C.~Mungall, A.~R. Gonz\'alez, and
+  M.~Wilkinson.
+\newblock {OPPL-Galaxy}, a {Galaxy} tool for enhancing ontology exploitation as
+  part of bioinformatics workflows.
+\newblock {\em Journal of Biomedical Semantics}, 4(1):2+, 2013.
+
+\bibitem{galaxy}
+J.~Goecks, A.~Nekrutenko, J.~Taylor, and {Galaxy Team}.
+\newblock Galaxy: a comprehensive approach for supporting accessible,
+  reproducible, and transparent computational research in the life sciences.
+\newblock {\em Genome biology}, 11(8):R86+, 2010.
+
+\end{thebibliography}
