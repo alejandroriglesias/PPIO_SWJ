@@ -25,7 +25,11 @@
 %\usepackage{endnotes}
 %\usepackage{graphics}
 
+\usepackage{url}
+
 %%%%%%%%%%% Put your definitions here
+
+\newcommand{\myurl}[1]{\footnote{\url{#1}}}
 
 
 %%%%%%%%%%% End of definitions
@@ -86,9 +90,25 @@ Plant-pathogen interactions are an important knowledge domain within plant biolo
 
 \section{Creation methodology}
 
+Numerical IDs + label.
+
+The development of PPIO is automated as much as possible. Once the basic structure is set, some parts of the ontology are produced programmatically by introducing the ontology in a tailored Galaxy \cite{galaxy} workflow  (picture of workflow). 
+
+OWL Puning\myurl{http://www.w3.org/TR/owl2-new-features/Punning} is used in the X hierarchy of PPIO to represent X classes both as OWL classes and individuals, in order to link pathogens, which are individuals, with symptons?. This is achieved by defining an Ontology Pre Procesoor Language (OPPL)\myurl{http://oppl.sf.net} script (picture) and executing it via OPPL-Galaxy \cite{OPPL-Galaxy-JBMS}.
+
+The organism taxa hierarchy is produced by the Galaxy tool NCBITaxonomy2OWL: NCBITaxonomy2OWL gets the user-defined taxa from the NCBO web service (URL) and injects them in the ontology, respecting the origincal hierarchy and adding each taxa with an ontobee (REF) URI (eg) (ref github repo)
+
+By using Galaxy, the specifi workflow we need is defined once and we can execute it at will, each time a new release is set, or also if new tools are needed. The galaxy workflow can be reproduced at biordf.org:8090 with any ontology and OPPL script.
+
+TODO: we need to be able to resolve not only the whole ontology (oclc.purl.org/PPIO), but specific entities (oclc.purl.org/PPIO000023). How? stardog linked data? but then, the redirection is always done with oclc.purl.org!
+
 
 
 \section{Discussion (comparison with other ontologies on the same topic, pointers to existing applications or use-case experiments)}
+
+\section*{Acknowledgements}
+
+Mikel Ega\~na Aranguren is funded by the Marie Curie-COFUND Programme (FP7) of the EU.
 
 
 
@@ -116,5 +136,8 @@ Plant-pathogen interactions are an important knowledge domain within plant biolo
 %\bibitem{r2}
 
 %\end{thebibliography}
+
+\bibliographystyle{abbrv}
+  \bibliography{swj_ppio}
 
 \end{document}
