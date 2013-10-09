@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{OPPL-Galaxy-JBMS}
 M.~E. Aranguren, J.~T.~F. Breis, E.~Antezana, C.~Mungall, A.~R. Gonz\'alez, and
@@ -7,10 +7,82 @@ M.~E. Aranguren, J.~T.~F. Breis, E.~Antezana, C.~Mungall, A.~R. Gonz\'alez, and
   part of bioinformatics workflows.
 \newblock {\em Journal of Biomedical Semantics}, 4(1):2+, 2013.
 
+\bibitem{RDF}
+F.~Belleau, M.-A. Nolin, N.~Tourigny, P.~Rigault, and J.~Morissette.
+\newblock Bio2rdf: Towards a mashup to build bioinformatics knowledge systems.
+\newblock {\em Journal of Biomedical Informatics}, 41(5):706--716, 2008.
+
+\bibitem{Gene}
+G.~O. Consortium.
+\newblock {The Gene Ontology in 2010: extensions and refinements.}
+\newblock {\em Nucleic acids research}, 38(Database issue):D331--5, 2010.
+
+\bibitem{IDO}
+L.~G. Cowell and B.~Smith.
+\newblock Infectious disease ontology.
+\newblock {\em Infectious Disease Informatics}, pages 373--395, 2010.
+
+\bibitem{DeWit}
+P.~J. G.~M. de~Wit.
+\newblock {How plants recognize pathogens and defend themselves.}
+\newblock {\em Cellular and molecular life sciences : CMLS}, 64(21):2726--32,
+  2007.
+
+\bibitem{Dodds}
+P.~Dodds and J.~Rathjen.
+\newblock Plant immunity: towards an integrated view of plant-pathogen
+  interactions.
+\newblock {\em Nature Review Genetics}, 11:539--548, 2010.
+
 \bibitem{galaxy}
 J.~Goecks, A.~Nekrutenko, J.~Taylor, and {Galaxy Team}.
 \newblock Galaxy: a comprehensive approach for supporting accessible,
   reproducible, and transparent computational research in the life sciences.
 \newblock {\em Genome biology}, 11(8):R86+, 2010.
+
+\bibitem{PO}
+P.~Jaiswal, S.~Avraham, K.~Ilic, E.~A. Kellogg, S.~McCouch, A.~Pujar,
+  L.~Reiser, S.~Y. Rhee, M.~M. Sachs, M.~Schaeffer, L.~Stein, P.~Stevens,
+  L.~Vincent, D.~Ware, and F.~Zapata.
+\newblock Plant ontology (po): a controlled vocabulary of plant structures and
+  growth stages.
+\newblock {\em Comparative and Functional Genomics}, 6(7-8):388--397, 2005.
+
+\bibitem{PTO}
+P.~Jaiswal, D.~Ware, J.~Ni, K.~Chang, W.~Zhao, S.~Schmidt, X.~Pan, K.~Clark,
+  L.~Teytelman, S.~Cartinhour, L.~Stein, and S.~McCouch.
+\newblock Gramene: development and integration of trait and gene ontologies for
+  rice.
+\newblock {\em Comparative and Functional Genomics}, 3(2):132--136, 2002.
+
+\bibitem{Lindeberg}
+M.~Lindeberg and A.~Collmer.
+\newblock {Gene Ontology for type III effectors: capturing processes at the
+  host-pathogen interface.}
+\newblock {\em Trends in microbiology}, 17(7):304--11, 2009.
+
+\bibitem{Mansfield}
+J.~Mansfield, S.~Genin, S.~Magori, V.~Citovsky, M.~Sriariyanum, P.~Ronald, and
+  et~al.
+\newblock Top 10 plant pathogenic bacteria in molecular plant pathology.
+\newblock {\em Molecular Plant Pathology}, 13(6):614--629, 2012.
+
+\bibitem{Montesinos}
+E.~Montesinos.
+\newblock {Pathogenic plant-microbe interactions. What we know and how we
+  benefit.}
+\newblock {\em International microbiology : the official journal of the Spanish
+  Society for Microbiology}, 3(2):69--70, 2000.
+
+\bibitem{Smith}
+B.~Smith, M.~Ashburner, C.~Rosse, J.~Bard, and W.~B. et~al.
+\newblock The obo foundry: coordinated evolution of ontologies to support
+  biomedical data integration.
+\newblock {\em Nat Biotech}, 25(11):1251--1255, 2007.
+
+\bibitem{Walls}
+R.~Walls, B.~Smith, J.~Elser, A.~Goldfain, D.~W. Stevenson, and P.~Jaiswal.
+\newblock {A plant disease extension of the Infectious Disease Ontology}.
+\newblock {\em In Ronald Cornet and Robert Stevens, editors, ICBO}, pages 1--5.
 
 \end{thebibliography}
