@@ -23,13 +23,24 @@
 \usepackage{natbib}% for bibliography sorting/compressing
 %\usepackage{amsmath}
 %\usepackage{endnotes}
-%\usepackage{graphics}
+\usepackage{graphics}
 
+\usepackage{color}
 \usepackage{url}
+\usepackage{xspace}
 
 %%%%%%%%%%% Put your definitions here
 
 \newcommand{\myurl}[1]{\footnote{\url{#1}}}
+\newcommand{\todo}[1]{\textbf{{\color{blue}$\Longrightarrow$ #1}}}
+
+\newcommand{\via}{\emph{via}\xspace}
+\newcommand{\perse}{\emph{per se}\xspace}
+\newcommand{\ie}{\emph{i.e.}\xspace}
+\newcommand{\eg}{\emph{e.g.}\xspace}
+\newcommand{\etc}{\emph{etc.}}
+\newcommand{\protege}{Prot\'eg\'e\xspace}
+\newcommand{\con}[1]{\texttt{#1}\xspace}
 
 
 %%%%%%%%%%% End of definitions
@@ -99,23 +110,55 @@ Physiological state of plants can be inferred visually by observing plant phenot
 
 \section{Creation methodology}
 
-Numerical IDs + label.
+\subsection{URI design}
+The ontology URI (\url{http://purl.oclc.org/PPIO}) is HTTP resolvable and permanent (the PURL server redirects to our current server at \url{biordf.org}). The identifiers for entities (classes, individuals and object properties) are alphanumeric, with a URI of the type \url{http://purl.oclc.org/PPIO#PPIO_NNNNNNN}, and every entity has an informative \con{rdfs:label} annotation. Currently hash URIs are used due to the small size of the ontology, but since URIs are generated programmatically\myurl{https://github.com/wilkinsonlab/OWLNumericIDGenerator}, when the ontology grows into a Knowledge Base or Linked Data dataset (see section \ref{sec:discussion}) slash URIs can be generated.
 
-The development of PPIO is automated as much as possible. Once the basic structure is set, some parts of the ontology are produced programmatically by introducing the ontology in a tailored Galaxy \cite{galaxy} workflow  (picture of workflow). 
+\subsection{Ontology production}
+The development of PPIO is automated as much as possible. Once the main structure is set, most of the remaining parts are produced programmatically using the Galaxy platform, a bioinformatics-oriented workflow environment \cite{galaxy}. By using Galaxy, the specific workflow we need is defined once and executed for each release; also, we can plug PPIO directly with other Bioinformatics tools. 
 
-OWL Puning\myurl{http://www.w3.org/TR/owl2-new-features/Punning} is used in the X hierarchy of PPIO to represent X classes both as OWL classes and individuals, in order to link pathogens, which are individuals, with symptons?. This is achieved by defining an Ontology Pre Procesoor Language (OPPL)\myurl{http://oppl.sf.net} script (picture) and executing it via OPPL-Galaxy \cite{OPPL-Galaxy-JBMS}.
+The workflow adds the necessary entities and axioms\footnote{The workflow can be reproduced at \url{http://biordf.org:8090/u/alejandroriglesias/w/ppio-taxa-punning}} (Figure \ref{fig:galaxy-workflow}):
 
-The organism taxa hierarchy is produced by the Galaxy tool NCBITaxonomy2OWL: NCBITaxonomy2OWL gets the user-defined taxa from the NCBO web service (URL) and injects them in the ontology, respecting the origincal hierarchy and adding each taxa with an ontobee (REF) URI (eg) (ref github repo)
+\begin{enumerate}
 
-By using Galaxy, the specifi workflow we need is defined once and we can execute it at will, each time a new release is set, or also if new tools are needed. The galaxy workflow can be reproduced at biordf.org:8090 with any ontology and OPPL script.
+\item The organism taxa hierarchy is produced by the tool NCBITaxonomy2OWL\myurl{https://github.com/wilkinsonlab/NCBITaxonomy2OWL}: it gets the user-defined taxa from the NCBI taxononomy through a BioPortal Web Service \cite{bioportal} and injects them in PPIO, reproducing the original taxonomical hierarchy (representing each rank-subrank as a simple subsumption relation \cite{taxa_ismb_2008}) and adding each taxon with a resolvable OntoBee\myurl{http://www.ontobee.org/} URI.
 
-The ontology URI resolves to the ontology, and entity URIs also resolve 
-%http://purl.oclc.org/PPIO
-%http://purl.oclc.org/PPIO#PPIO_0000079
+\item Since pathogens in PPIO are modelled as individuals, they cannot be directly related with class hierarchies like the NCBI taxonomy and the symptoms hierarchy. Therefore, PPIO exploits OWL punning\myurl{http://www.w3.org/TR/owl2-new-features/Punning} and an individual with the same URI as each type class is generated programmatically (see bellow) for those hierarchies: the linking of pathogens to those hierarchies (\eg~\con{NCBITaxon\_552 types Erwinia amylovora}, \con{NCBITaxon\_552 causes Canker}, \con{NCBITaxon\_552 causes Blight}) is done manually. This is achieved by defining two Ontology Pre Procesor Language (OPPL)\myurl{http://oppl.sf.net} scripts and executing them via OPPL-Galaxy \cite{OPPL-Galaxy-JBMS}\footnote{Since we are using OPPL, any complex axiomisation -not only puning- can be defined once and automatically applied -expanded to different parts of the ontology- every time the workflow is executed.}:
+
+{\small 
+\begin{verbatim}
+?x:CLASS,
+?y:INDIVIDUAL = create(?x.RENDERING)
+SELECT ?x SubClassOf NCBITaxon_1
+WHERE ?x != Nothing, ?x != Thing
+BEGIN
+ADD ?y Type ?x
+END;
+\end{verbatim}
+}
+
+{\small 
+\begin{verbatim}
+?x:CLASS,
+?y:INDIVIDUAL = create(?x.RENDERING)
+SELECT ?x SubClassOf PPIO_0000069
+WHERE ?x != Nothing, ?x != Thing
+BEGIN
+ADD ?y Type ?x
+END;
+\end{verbatim}
+}
 
 
+\end{enumerate}
 
-\section{Discussion}
+\begin{figure*}
+% \includegraphics
+% [width=.1\textwidth]
+% {galaxy-workflow}
+\caption{Galaxy workflow for producing a release of PPIO. In the first step, NCBITaxonomy2OWL is executed; it gets the ontology and a flat file containing the NCBI taxonomy IDs, and it adds them to the ontology. Then two OPPL scripts are executed against the resulting ontology, adding axioms and entities to create }\label{fig:galaxy-workflow}
+\end{figure*}
+
+\section{Discussion}\label{sec:discussion}
 
 Certain semantics-oriented projects are particularly noteworthy as a result of their success in using semantics to aid in automated data  integration from non-collaborating resources, like the OBO foundry \cite{Smith},which includes Gene Ontology (GO) \cite{Gene}, Bio2RDF \cite{RDF} and the W3C Semantic  Web  for Health  Care  and  Life Sciences Interest Group\myurl{http://www.w3.org/blog/hcls/}. In the context of plant biotechnology and phytopathology, however, semantic technologies have been applied to only a limited number of domain resources. For example, the Plant Ontology Consortium developed the Plant Ontology\myurl{tp://www.plantontology.org/} platform to describe the anatomy, morphology and developmental stages of plants \cite{PO}. The Plant Trait Ontology \cite{PTO}, related to the Gramene project\myurl{http://www.gramene.org}, defines a vocabulary for describing the specific appearance or qualities of various plant anatomical structures. The Plant Disease Ontology (IDOPlant) \cite{Walls}, was modeled after the human Infectious Diseases Ontology (IDO) \cite{IDO} to serve as a reference ontology that contained and covered any plant infectious disease. Apart from IDOPlant, there is another contribution directly related to the plant-pathogenic bacteria area, and is the GO extension for description of the Type III Effectors \cite{Lindeberg}, which is part of the Plant-Associated Microbe Gene Ontology project (PAMGO). 
 
