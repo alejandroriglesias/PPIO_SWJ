@@ -8,46 +8,47 @@ I was expecting a `,' or a `}'---line 81 of file swj_ppio.bib
  : year = {2012}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--empty journal in Bull2010
 Warning--empty year in Walls
-You've used 14 entries,
+You've used 15 entries,
             2118 wiz_defined-function locations,
-            602 strings with 6844 characters,
-and the built_in function-call counts, 5918 in all, are:
-= -- 561
-> -- 384
+            608 strings with 7106 characters,
+and the built_in function-call counts, 6462 in all, are:
+= -- 609
+> -- 432
 < -- 2
-+ -- 153
-- -- 138
-* -- 514
-:= -- 1019
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 111
++ -- 172
+- -- 156
+* -- 566
+:= -- 1115
+add.period$ -- 45
+call.type$ -- 15
+change.case$ -- 123
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 168
-empty$ -- 372
-format.name$ -- 138
-if$ -- 1164
+cite$ -- 17
+duplicate$ -- 179
+empty$ -- 398
+format.name$ -- 156
+if$ -- 1265
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 14
-newline$ -- 73
-num.names$ -- 28
-pop$ -- 89
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 78
+num.names$ -- 30
+pop$ -- 101
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 108
 quote$ -- 0
-skip$ -- 117
+skip$ -- 124
 stack$ -- 0
-substring$ -- 377
+substring$ -- 407
 swap$ -- 28
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 1
-while$ -- 55
-width$ -- 16
-write$ -- 155
+type$ -- 60
+warning$ -- 2
+while$ -- 59
+width$ -- 17
+write$ -- 165
 (There was 1 error message)
