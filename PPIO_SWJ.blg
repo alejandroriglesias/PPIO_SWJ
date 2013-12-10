@@ -3,52 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: PPIO_SWJ.aux
 The style file: abbrv.bst
 Database file #1: swj_ppio.bib
-I was expecting a `,' or a `}'---line 81 of file swj_ppio.bib
- : 
- : year = {2012}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--empty journal in Bull2010
-Warning--empty year in Walls
-You've used 15 entries,
+Warning--empty journal in Wieczorek2013
+Warning--there's a number but no volume in Wieczorek2013
+You've used 18 entries,
             2118 wiz_defined-function locations,
-            608 strings with 7106 characters,
-and the built_in function-call counts, 6462 in all, are:
-= -- 609
-> -- 432
+            625 strings with 7918 characters,
+and the built_in function-call counts, 7863 in all, are:
+= -- 733
+> -- 546
 < -- 2
-+ -- 172
-- -- 156
-* -- 566
-:= -- 1115
-add.period$ -- 45
-call.type$ -- 15
-change.case$ -- 123
++ -- 218
+- -- 198
+* -- 700
+:= -- 1363
+add.period$ -- 54
+call.type$ -- 18
+change.case$ -- 153
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 179
-empty$ -- 398
-format.name$ -- 156
-if$ -- 1265
+cite$ -- 21
+duplicate$ -- 211
+empty$ -- 473
+format.name$ -- 198
+if$ -- 1532
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 15
-newline$ -- 78
-num.names$ -- 30
-pop$ -- 101
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 36
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 108
+purify$ -- 135
 quote$ -- 0
-skip$ -- 124
+skip$ -- 145
 stack$ -- 0
-substring$ -- 407
-swap$ -- 28
+substring$ -- 478
+swap$ -- 30
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
-warning$ -- 2
-while$ -- 59
-width$ -- 17
-write$ -- 165
-(There was 1 error message)
+type$ -- 72
+warning$ -- 3
+while$ -- 68
+width$ -- 20
+write$ -- 198
+(There were 3 warnings)
