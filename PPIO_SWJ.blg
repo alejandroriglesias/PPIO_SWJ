@@ -2,44 +2,48 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: PPIO_SWJ.aux
 The style file: abbrv.bst
 Database file #1: swj_ppio.bib
-You've used 16 entries,
+Warning--empty journal in Bull2010
+Warning--empty journal in Wieczorek2013
+Warning--there's a number but no volume in Wieczorek2013
+You've used 18 entries,
             2118 wiz_defined-function locations,
-            615 strings with 7311 characters,
-and the built_in function-call counts, 6790 in all, are:
-= -- 644
-> -- 440
+            625 strings with 7918 characters,
+and the built_in function-call counts, 7863 in all, are:
+= -- 733
+> -- 546
 < -- 2
-+ -- 176
-- -- 158
-* -- 594
-:= -- 1168
-add.period$ -- 48
-call.type$ -- 16
-change.case$ -- 127
++ -- 218
+- -- 198
+* -- 700
+:= -- 1363
+add.period$ -- 54
+call.type$ -- 18
+change.case$ -- 153
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 190
-empty$ -- 429
-format.name$ -- 158
-if$ -- 1337
+cite$ -- 21
+duplicate$ -- 211
+empty$ -- 473
+format.name$ -- 198
+if$ -- 1532
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 16
-newline$ -- 83
-num.names$ -- 32
-pop$ -- 99
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 36
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 111
+purify$ -- 135
 quote$ -- 0
-skip$ -- 132
+skip$ -- 145
 stack$ -- 0
-substring$ -- 443
+substring$ -- 478
 swap$ -- 30
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
-warning$ -- 0
-while$ -- 62
-width$ -- 18
-write$ -- 178
+type$ -- 72
+warning$ -- 3
+while$ -- 68
+width$ -- 20
+write$ -- 198
+(There were 3 warnings)
