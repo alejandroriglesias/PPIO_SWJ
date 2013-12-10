@@ -1,53 +1,45 @@
-This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: PPIO_SWJ.aux
 The style file: abbrv.bst
 Database file #1: swj_ppio.bib
-I was expecting a `,' or a `}'---line 81 of file swj_ppio.bib
- : 
- : year = {2012}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--empty year in Walls
-You've used 14 entries,
+You've used 16 entries,
             2118 wiz_defined-function locations,
-            602 strings with 6844 characters,
-and the built_in function-call counts, 5918 in all, are:
-= -- 561
-> -- 384
+            615 strings with 7311 characters,
+and the built_in function-call counts, 6790 in all, are:
+= -- 644
+> -- 440
 < -- 2
-+ -- 153
-- -- 138
-* -- 514
-:= -- 1019
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 111
++ -- 176
+- -- 158
+* -- 594
+:= -- 1168
+add.period$ -- 48
+call.type$ -- 16
+change.case$ -- 127
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 168
-empty$ -- 372
-format.name$ -- 138
-if$ -- 1164
+cite$ -- 16
+duplicate$ -- 190
+empty$ -- 429
+format.name$ -- 158
+if$ -- 1337
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 14
-newline$ -- 73
-num.names$ -- 28
-pop$ -- 89
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 83
+num.names$ -- 32
+pop$ -- 99
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 111
 quote$ -- 0
-skip$ -- 117
+skip$ -- 132
 stack$ -- 0
-substring$ -- 377
-swap$ -- 28
+substring$ -- 443
+swap$ -- 30
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 1
-while$ -- 55
-width$ -- 16
-write$ -- 155
-(There was 1 error message)
+type$ -- 64
+warning$ -- 0
+while$ -- 62
+width$ -- 18
+write$ -- 178

@@ -74,6 +74,11 @@ E.~Montesinos.
 \newblock {\em International microbiology : the official journal of the Spanish
   Society for Microbiology}, 3(2):69--70, 2000.
 
+\bibitem{taxa_ismb_2008}
+S.~Schulz, H.~Stenzhorn, and M.~Boeker.
+\newblock The ontology of biological taxa.
+\newblock {\em Bioinformatics}, 24(13):i313--321, July 2008.
+
 \bibitem{Smith}
 B.~Smith, M.~Ashburner, C.~Rosse, J.~Bard, and W.~B. et~al.
 \newblock The obo foundry: coordinated evolution of ontologies to support
@@ -83,6 +88,15 @@ B.~Smith, M.~Ashburner, C.~Rosse, J.~Bard, and W.~B. et~al.
 \bibitem{Walls}
 R.~Walls, B.~Smith, J.~Elser, A.~Goldfain, D.~W. Stevenson, and P.~Jaiswal.
 \newblock {A plant disease extension of the Infectious Disease Ontology}.
-\newblock {\em In Ronald Cornet and Robert Stevens, editors, ICBO}, pages 1--5.
+\newblock {\em In Ronald Cornet and Robert Stevens, editors, ICBO}, pages 1--5,
+  2012.
+
+\bibitem{bioportal}
+P.~L. Whetzel, N.~F. Noy, N.~H. Shah, P.~R. Alexander, C.~Nyulas, T.~Tudorache,
+  and M.~A. Musen.
+\newblock {BioPortal}: enhanced functionality via new web services from the
+  national center for biomedical ontology to access and use ontologies in
+  software applications.
+\newblock {\em Nucleic acids research}, 39(Web Server issue):W541--W545, 2011.
 
 \end{thebibliography}
