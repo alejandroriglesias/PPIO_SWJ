@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  10 DEC 2013 15:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  17 DEC 2013 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,16 +220,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 76.
 \c@sv@footnote=\count106
 
-Underfull \hbox (badness 828) in paragraph at lines 95--96
-\T1/ptm/m/n/10 tri-ous ex-am-ple of bio-di-ver-sity rich-ness [[]]. Tra-di-
+Overfull \hbox (13.47855pt too wide) in paragraph at lines 95--96
+\T1/ptm/m/it/10 Agrobac-terium, Er-winia, Pseu-domonas and Xan-thomonas
  []
 
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 103.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 104.
+Overfull \hbox (8.9181pt too wide) in paragraph at lines 103--104
+\T1/ptm/m/n/10 ex-pert web re-sources. The web page http://pseudomonas-
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 104.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
@@ -286,9 +289,13 @@ Overfull \hbox (49.37012pt too wide) in paragraph at lines 128--129
  []
 
 
-Overfull \hbox (49.90002pt too wide) in paragraph at lines 128--129
-\T1/pcr/m/n/10 NCBITaxon_552 causes Canker\T1/ptm/m/n/10 , \T1/pcr/m/n/10 NCBIT
-axon_552
+Overfull \hbox (18.0pt too wide) in paragraph at lines 128--129
+\T1/pcr/m/n/10 NCBITaxon_552 causes symptom Canker\T1/ptm/m/n/10 ,
+ []
+
+
+Overfull \hbox (18.82996pt too wide) in paragraph at lines 128--129
+\T1/pcr/m/n/10 NCBITaxon_552 causes symptom Blight\T1/ptm/m/n/10 )
  []
 
 
@@ -303,7 +310,7 @@ Overfull \hbox (9.8388pt too wide) in paragraph at lines 171--172
  []
 
 [3]
-Overfull \hbox (10.1484pt too wide) in paragraph at lines 180--181
+Overfull \hbox (10.1484pt too wide) in paragraph at lines 181--182
 \T1/ptm/m/n/10 gramme. Mark D. Wilkin-son and Mikel Egaña Aranguren
  []
 
@@ -323,44 +330,13 @@ Underfull \hbox (badness 1173) in paragraph at lines 72--76
  []
 
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 543.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 544.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 545.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 546.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 547.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 548.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 549.90593pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 550.90593pt
-Extra height:0.0pt when 551.90593pt
-(2)Left:551.90593pt Right:551.81186pt Output:551.90593pt
+Extra height:0.0pt when 555.75592pt
+(2)Left:555.75592pt Right:550.07993pt Output:555.75592pt
 - LAST -
 Extra skip:0.0pt
-Left:551.90593pt
-Right:551.81186pt
-Output:551.90593pt
+Left:555.75592pt
+Right:550.07993pt
+Output:555.75592pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -369,11 +345,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  2583 strings out of 495059
  33581 string characters out of 3182030
- 107091 words of memory out of 3000000
+ 108091 words of memory out of 3000000
  5719 multiletter control sequences out of 15000+200000
  44993 words of font info for 63 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,11n,25p,1843b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,25p,1684b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
@@ -383,7 +359,7 @@ onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PPIO_SWJ.pdf (4 pages, 115959 bytes).
+Output written on PPIO_SWJ.pdf (4 pages, 115798 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
