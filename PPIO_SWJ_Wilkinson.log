@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.3.8)  7 JAN 2014 11:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.3.8)  7 JAN 2014 11:20
 entering extended mode
  %&-line parsing enabled.
-**PPIO_SWJ.tex
-(./PPIO_SWJ.tex
+**PPIO_SWJ_Wilkinson.tex
+(./PPIO_SWJ_Wilkinson.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, loaded.
@@ -88,10 +88,11 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/etc/texmf/tex/latex/config/graphics.cfg
 File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count98
 ))
 (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -99,19 +100,16 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 (/etc/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 130.
-
-(/usr/share/texmf-texlive/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
-))
+Package color Info: Driver file: pdftex.def on input line 130.
+)
 (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 (/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
 Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
-) (./PPIO_SWJ.aux)
-\openout1 = `PPIO_SWJ.aux'.
+) (./PPIO_SWJ_Wilkinson.aux)
+\openout1 = `PPIO_SWJ_Wilkinson.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
@@ -126,8 +124,7 @@ LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 53.
-
-(/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 ! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
@@ -142,7 +139,21 @@ so I will ignore the font specification.
 You might try inserting a different font spec;
 e.g., type `I\font<same font id>=<substitute font name>'.
 
-\c@sv@footnote=\count98
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen114
+\scratchbox=\box34
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen115
+\MPnumerator=\count103
+\everyMPtoPDFconversion=\toks18
+)
+\c@sv@footnote=\count104
+
 ! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
 ound.
 <to be read again> 
@@ -1232,7 +1243,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
-\c@sv@footnote=\count99
+\c@sv@footnote=\count105
 ! Font T1/ptm/m/n/8=ptmr8t at 8.0pt not loadable: Metric (TFM) file not found.
 <to be read again> 
                    relax 
@@ -9755,12 +9766,12 @@ l.119 ...b.com/wilkinsonlab/OWLNumericIDGenerator}
                                                    (see below), if/when the ...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 1671 strings out of 495062
- 19552 string characters out of 1182645
- 67551 words of memory out of 3000000
- 4870 multiletter control sequences out of 15000+50000
+ 1898 strings out of 495061
+ 22137 string characters out of 1182622
+ 75237 words of memory out of 3000000
+ 5094 multiletter control sequences out of 15000+50000
  9884 words of font info for 33 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 24i,7n,25p,2115b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,7n,25p,2125b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-No pages of output.
+!  ==> Fatal error occurred, no output PDF file produced!
