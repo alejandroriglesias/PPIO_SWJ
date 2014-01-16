@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  8 JAN 2014 16:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  16 JAN 2014 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,6 +80,13 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count97
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
@@ -102,6 +109,9 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count98
 ))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -119,19 +129,19 @@ Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 ) (./PPIO_SWJ.aux)
 \openout1 = `PPIO_SWJ.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -139,16 +149,16 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
-\scratchdimen=\dimen114
+\scratchdimen=\dimen116
 \scratchbox=\box34
 \nofMPsegments=\count100
 \nofMParguments=\count101
-\everyMPshowfont=\toks17
+\everyMPshowfont=\toks18
 \MPscratchCnt=\count102
-\MPscratchDim=\dimen115
+\MPscratchDim=\dimen117
 \MPnumerator=\count103
 \makeMPintoPDFobject=\count104
-\everyMPtoPDFconversion=\toks18
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -178,10 +188,6 @@ Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks19
-)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
@@ -203,69 +209,83 @@ e
 ))
 \c@sv@footnote=\count105
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 58.
+(Font)              <24.88> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 58.
+(Font)              <20.74> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 58.
+(Font)              <17.28> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 71.
+(Font)              <10.95> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 71.
+(Font)              <8> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 71.
+(Font)              <6> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 76.
+(Font)              <7> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <5> on input line 77.
 \c@sv@footnote=\count106
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 98.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 100.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 105.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 104.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
+Underfull \hbox (badness 1033) in paragraph at lines 104--105
+\T1/ptm/m/n/10 Web page $\T1/pcr/m/n/10 http : / / pseudomonas-[]syringae .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []$[]$[]$\T1/pcr/m/n/8 http : / / www . apsnet . org / edcenter / instcomm /
  []
 
-LaTeX Font Info:    Try loading font information for T1+phv on input line 109.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 108.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
+
+Package natbib Warning: Citation `TsHo06a' on page 2 undefined on input line 10
+8.
+
+
+Package natbib Warning: Citation `hermit' on page 2 undefined on input line 108
+.
+
 <PPIO-classes2.png, id=13, 438.8897pt x 469.00218pt>
 File: PPIO-classes2.png Graphic file (type png)
  <use PPIO-classes2.png>
 Package pdftex.def Info: PPIO-classes2.png used on input line 116.
-(pdftex.def)             Requested size: 438.88863pt x 469.00104pt.
+(pdftex.def)             Requested size: 230.0pt x 245.78613pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]$[]$[]$\T1/pcr/m/n/8 https : / / github . com / wilkinsonlab /
+Overfull \hbox (13.0pt too wide) in paragraph at lines 116--117
+ [][] 
  []
 
-[2] [3 <./PPIO-classes2.png>]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
 []$[]$[]\T1/ptm/m/n/8 The work-flow can be re-pro-duced at $\T1/pcr/m/n/8 http 
-: / /
+: / / 70 .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
-\T1/pcr/m/n/8 biordf . org : 8090 / u / alejandroriglesias / w /
+\T1/pcr/m/n/8 33 . 214 . 57 : 8983 / u / alejandroriglesias / w /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
-\T1/pcr/m/n/8 / / biordf . org : 8090 / u / alejandroriglesias / p /
+\T1/pcr/m/n/8 / / 70 . 33 . 214 . 57 : 8983 / u / alejandroriglesias / p /
  []
 
 
@@ -275,67 +295,53 @@ ntology-[]ppio-[]$|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []$[]$[]$\T1/pcr/m/n/8 https : / / github . com / wilkinsonlab /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
 []$[]$[]$\T1/pcr/m/n/8 http : / / www . w3 . org / TR / owl2-[]new-[]features /
 
  []
 
 
-Underfull \hbox (badness 857) in paragraph at lines 135--136
+Underfull \hbox (badness 857) in paragraph at lines 134--135
 \T1/ptm/m/n/10 not be di-rectly re-lated with class hi-er-ar-chies
  []
 
 
-Overfull \hbox (42.82863pt too wide) in paragraph at lines 135--136
-\T1/ptm/m/n/10 cate 'types' in this ex-am-ple...???]]] (\T1/ptm/m/it/10 e.g. \T
-1/pcr/m/n/10 NCBITaxon_552
+Package natbib Warning: Citation `bp_computing' on page 3 undefined on input li
+ne 162.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 162--163
+\T1/ptm/m/n/10 us-ing Manch-ester OWL Syn-tax, \T1/phv/m/n/10 NCBITaxon_552
  []
 
 
-Overfull \hbox (25.90002pt too wide) in paragraph at lines 135--136
-\T1/pcr/m/n/10 types Erwinia amylovora\T1/ptm/m/n/10 , \T1/pcr/m/n/10 NCBITaxon
-_552
+Overfull \hbox (2.43852pt too wide) in paragraph at lines 162--163
+\T1/phv/m/n/10 Types Er-winia amylovora\T1/ptm/m/n/10 , \T1/phv/m/n/10 NCBITaxo
+n_552 causes
  []
 
-
-Overfull \hbox (13.90002pt too wide) in paragraph at lines 135--136
-\T1/pcr/m/n/10 causes symptom Canker\T1/ptm/m/n/10 , \T1/pcr/m/n/10 NCBITaxon_5
-52
- []
-
-<galaxy-workflow.png, id=24, 806.01125pt x 469.755pt>
+<galaxy-workflow.png, id=20, 806.01125pt x 469.755pt>
 File: galaxy-workflow.png Graphic file (type png)
 
 <use galaxy-workflow.png>
-Package pdftex.def Info: galaxy-workflow.png used on input line 166.
-(pdftex.def)             Requested size: 806.00928pt x 469.75386pt.
+Package pdftex.def Info: galaxy-workflow.png used on input line 165.
+(pdftex.def)             Requested size: 230.0pt x 134.04642pt.
 
-Overfull \hbox (346.00928pt too wide) in paragraph at lines 166--168
+Overfull \hbox (13.0pt too wide) in paragraph at lines 165--167
  [][] 
  []
 
-
-Overfull \hbox (6.26787pt too wide) in paragraph at lines 174--175
-\T1/ptm/m/n/10 [[]], which in-cludes Gene On-tol-ogy (GO) [[]], Bio2RDF
+[3 <./PPIO-classes2.png>]
+Underfull \hbox (badness 1226) in paragraph at lines 192--193
+\T1/ptm/m/n/10 funded by the Marie Curie-COFUND Pro-gramme
  []
 
-[4] [5 <./galaxy-workflow.png>]
-Overfull \hbox (9.8388pt too wide) in paragraph at lines 179--180
-\T1/ptm/m/n/10 tack of \T1/ptm/m/it/10 Pseu-domonas sy-ringae \T1/ptm/m/n/10 pv
-. \T1/ptm/m/it/10 tomato \T1/ptm/m/n/10 DC3000? 
- []
-
-
-Overfull \hbox (10.1484pt too wide) in paragraph at lines 189--190
-\T1/ptm/m/n/10 gramme. Mark D. Wilkin-son and Mikel Egaña Aranguren
- []
-
-(./PPIO_SWJ.bbl
+(./PPIO_SWJ.bbl [4 <./galaxy-workflow.png>]
 Underfull \hbox (badness 849) in paragraph at lines 11--14
 \T1/ptm/m/n/8 sette.  Bio2rdf: To-wards a mashup to build bioin-for-mat-
  []
@@ -345,53 +351,51 @@ Underfull \hbox (badness 1430) in paragraph at lines 45--49
 []\T1/ptm/m/n/8 J. Goecks, A. Nekrutenko, J. Tay-lor, and Galaxy Team.
  []
 
-[6]
+
 Underfull \hbox (badness 1173) in paragraph at lines 72--76
 []\T1/ptm/m/n/8 J. Mans-field, S. Genin, S. Magori, V. Citovsky, M. Sri-
  []
 
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 240.03996pt
+Package natbib Warning: There were undefined citations.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:0.0pt when 241.03996pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(2)Left:241.03996pt Right:240.07993pt Output:241.03996pt
+Extra height:10.07993pt when 390.90593pt
+Extra height:0.0pt when 391.90593pt
+(2)Left:391.90593pt Right:391.81186pt Output:391.90593pt
 - LAST -
 Extra skip:0.0pt
-Left:241.03996pt
-Right:240.07993pt
-Output:241.03996pt
+Left:391.90593pt
+Right:391.81186pt
+Output:391.90593pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7
-
-]
+ [5]
 (./PPIO_SWJ.aux) ) 
 Here is how much of TeX's memory you used:
- 2595 strings out of 495059
- 33821 string characters out of 3182030
- 95097 words of memory out of 3000000
- 5728 multiletter control sequences out of 15000+200000
- 44993 words of font info for 63 fonts, out of 3000000 for 9000
+ 2674 strings out of 495059
+ 35001 string characters out of 3182030
+ 103628 words of memory out of 3000000
+ 5803 multiletter control sequences out of 15000+200000
+ 47883 words of font info for 65 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,11n,25p,1880b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,25p,2371b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PPIO_SWJ.pdf (7 pages, 167666 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
+vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PPIO_SWJ.pdf (5 pages, 183346 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
