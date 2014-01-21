@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  16 JAN 2014 16:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  20 JAN 2014 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,12 +336,12 @@ Overfull \hbox (13.0pt too wide) in paragraph at lines 165--167
  [][] 
  []
 
-[3 <./PPIO-classes2.png>]
-Underfull \hbox (badness 1226) in paragraph at lines 192--193
+[3 <./PPIO-classes2.png>] [4 <./galaxy-workflow.png>]
+Underfull \hbox (badness 1226) in paragraph at lines 190--191
 \T1/ptm/m/n/10 funded by the Marie Curie-COFUND Pro-gramme
  []
 
-(./PPIO_SWJ.bbl [4 <./galaxy-workflow.png>]
+(./PPIO_SWJ.bbl
 Underfull \hbox (badness 849) in paragraph at lines 11--14
 \T1/ptm/m/n/8 sette.  Bio2rdf: To-wards a mashup to build bioin-for-mat-
  []
@@ -360,17 +360,13 @@ Underfull \hbox (badness 1173) in paragraph at lines 72--76
 
 Package natbib Warning: There were undefined citations.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Extra height:10.07993pt when 390.90593pt
-Extra height:0.0pt when 391.90593pt
-(2)Left:391.90593pt Right:391.81186pt Output:391.90593pt
+Extra height:0.0pt when 444.85796pt
+(2)Left:444.85796pt Right:431.71591pt Output:444.85796pt
 - LAST -
 Extra skip:0.0pt
-Left:391.90593pt
-Right:391.81186pt
-Output:391.90593pt
+Left:444.85796pt
+Right:431.71591pt
+Output:444.85796pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -386,19 +382,17 @@ Here is how much of TeX's memory you used:
  38i,11n,25p,2371b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
-vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PPIO_SWJ.pdf (5 pages, 183346 bytes).
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PPIO_SWJ.pdf (5 pages, 168977 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
