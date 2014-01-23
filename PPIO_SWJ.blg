@@ -5,45 +5,45 @@ Database file #1: swj_ppio.bib
 Warning--empty journal in Bull2010
 Warning--empty journal in Wieczorek2013
 Warning--there's a number but no volume in Wieczorek2013
-You've used 18 entries,
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            625 strings with 7918 characters,
-and the built_in function-call counts, 7863 in all, are:
-= -- 733
-> -- 546
-< -- 2
-+ -- 218
-- -- 198
-* -- 700
-:= -- 1363
-add.period$ -- 54
-call.type$ -- 18
-change.case$ -- 153
+            648 strings with 8661 characters,
+and the built_in function-call counts, 9385 in all, are:
+= -- 863
+> -- 656
+< -- 5
++ -- 259
+- -- 237
+* -- 836
+:= -- 1612
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 180
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 211
-empty$ -- 473
-format.name$ -- 198
-if$ -- 1532
+cite$ -- 24
+duplicate$ -- 261
+empty$ -- 574
+format.name$ -- 237
+if$ -- 1842
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 18
-newline$ -- 93
-num.names$ -- 36
-pop$ -- 126
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 108
+num.names$ -- 44
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 159
 quote$ -- 0
-skip$ -- 145
+skip$ -- 180
 stack$ -- 0
-substring$ -- 478
-swap$ -- 30
-text.length$ -- 2
+substring$ -- 551
+swap$ -- 48
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 84
 warning$ -- 3
-while$ -- 68
-width$ -- 20
-write$ -- 198
+while$ -- 79
+width$ -- 23
+write$ -- 232
 (There were 3 warnings)

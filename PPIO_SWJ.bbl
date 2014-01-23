@@ -9,14 +9,15 @@ M.~E. Aranguren, J.~T.~F. Breis, E.~Antezana, C.~Mungall, A.~R. Gonz\'alez, and
 
 \bibitem{RDF}
 F.~Belleau, M.-A. Nolin, N.~Tourigny, P.~Rigault, and J.~Morissette.
-\newblock Bio2rdf: Towards a mashup to build bioinformatics knowledge systems.
+\newblock {Bio2RDF: Towards a mashup to build bioinformatics knowledge
+  systems}.
 \newblock {\em Journal of Biomedical Informatics}, 41(5):706--716, 2008.
 
 \bibitem{Bull2010}
 C.~T. Bull, S.~H.~D. Boer, T.~P. Denny, G.~Firrao, M.~F.-l. Saux, G.~S.
   Saddler, M.~Scortichini, D.~E. Stead, and Y.~Takikawa.
 \newblock {LETTER TO THE EDITOR COMPREHENSIVE LIST OF NAMES OF PLANT PATHOGENIC
-  BACTERIA , 1980-2007}.
+  BACTERIA, 1980-2007}.
 \newblock 92:551--592, 2010.
 
 \bibitem{Gene}
@@ -31,8 +32,8 @@ L.~G. Cowell and B.~Smith.
 
 \bibitem{DeWit}
 P.~J. G.~M. de~Wit.
-\newblock {How plants recognize pathogens and defend themselves.}
-\newblock {\em Cellular and molecular life sciences : CMLS}, 64(21):2726--32,
+\newblock {How plants recognize pathogens and defend themselves}.
+\newblock {\em Cellular and molecular life sciences: CMLS}, 64(21):2726--32,
   2007.
 
 \bibitem{Dodds}
@@ -51,8 +52,8 @@ J.~Goecks, A.~Nekrutenko, J.~Taylor, and {Galaxy Team}.
 P.~Jaiswal, S.~Avraham, K.~Ilic, E.~A. Kellogg, S.~McCouch, A.~Pujar,
   L.~Reiser, S.~Y. Rhee, M.~M. Sachs, M.~Schaeffer, L.~Stein, P.~Stevens,
   L.~Vincent, D.~Ware, and F.~Zapata.
-\newblock Plant ontology (po): a controlled vocabulary of plant structures and
-  growth stages.
+\newblock {Plant Ontology (PO): a controlled vocabulary of plant structures and
+  growth stages}.
 \newblock {\em Comparative and Functional Genomics}, 6(7-8):388--397, 2005.
 
 \bibitem{PTO}
@@ -77,8 +78,8 @@ J.~Mansfield, S.~Genin, S.~Magori, V.~Citovsky, M.~Sriariyanum, P.~Ronald, and
 \bibitem{Montesinos}
 E.~Montesinos.
 \newblock {Pathogenic plant-microbe interactions. What we know and how we
-  benefit.}
-\newblock {\em International microbiology : the official journal of the Spanish
+  benefit}.
+\newblock {\em International microbiology: the official journal of the Spanish
   Society for Microbiology}, 3(2):69--70, 2000.
 
 \bibitem{taxa_ismb_2008}
@@ -86,11 +87,24 @@ S.~Schulz, H.~Stenzhorn, and M.~Boeker.
 \newblock The ontology of biological taxa.
 \newblock {\em Bioinformatics}, 24(13):i313--321, July 2008.
 
+\bibitem{hermit}
+R.~Shearer, B.~Motik, and I.~Horrocks.
+\newblock {HermiT: A Highly-Efficient OWL Reasoner}.
+\newblock In C.~Dolbear, A.~Ruttenberg, and U.~Sattler, editors, {\em OWLED},
+  volume 432 of {\em CEUR Workshop Proceedings}, 2008.
+
 \bibitem{Smith}
 B.~Smith, M.~Ashburner, C.~Rosse, J.~Bard, and W.~B. et~al.
-\newblock The obo foundry: coordinated evolution of ontologies to support
-  biomedical data integration.
+\newblock {The OBO Foundry: coordinated evolution of ontologies to support
+  biomedical data integration}.
 \newblock {\em Nat Biotech}, 25(11):1251--1255, 2007.
+
+\bibitem{TsHo06a}
+D.~Tsarkov and I.~Horrocks.
+\newblock {FaCT}++ description logic reasoner: System description.
+\newblock In {\em Proceedings of the International Joint Confererence on
+  Automated Reasoning (IJCAR\~{}2006)}, volume 4130 of {\em Lecture Notes in
+  Artificial Intelligence}, pages 292--297, 2006.
 
 \bibitem{Walls}
 R.~Walls, B.~Smith, J.~Elser, A.~Goldfain, D.~W. Stevenson, and P.~Jaiswal.
@@ -110,7 +124,14 @@ P.~L. Whetzel, N.~F. Noy, N.~H. Shah, P.~R. Alexander, C.~Nyulas, T.~Tudorache,
 A.~J. Wieczorek, O.~B\'{a}nki, S.~Blum, J.~Deck, M.~D\"{o}ring, G.~Dr\"{o}ge,
   P.~Goldstein, P.~Leary, L.~Krishtalka, E.~O. Tuama, and J.~Robert.
 \newblock {Meeting Report : GBIF hackathon-workshop on Darwin Core and sample
-  data ( 22-24 May 2013 )}.
+  data}.
 \newblock (May), 2013.
+
+\bibitem{bp_computing}
+G.~Wilson, D.~A. Aruliah, C.~T. Brown, N.~P. Chue~Hong, M.~Davis, R.~T. Guy,
+  S.~H.~D. Haddock, K.~D. Huff, I.~M. Mitchell, M.~D. Plumbley, B.~Waugh, E.~P.
+  White, and P.~Wilson.
+\newblock Best practices for scientific computing.
+\newblock {\em PLoS Biol}, 12(1):e1001745+, 2014.
 
 \end{thebibliography}
