@@ -1,15 +1,20 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.20)  20 JAN 2014 12:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.9)  23 JAN 2014 16:17
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **PPIO_SWJ.tex
 (./PPIO_SWJ.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
 (./iosart2c.cls
 Document Class: iosart2c 2010/10/28 v1.0, IOS Press
-(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+(/usr/share/texmf-texlive/tex/latex/base/fleqn.clo
 File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 )
@@ -63,69 +68,62 @@ Package: flushend 2002/12/13
 \atColsBreak=\toks16
 \@extra@skip=\dimen112
 \@nd@page@rule=\dimen113
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+)) (/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
 \bibhang=\skip48
 \bibsep=\skip49
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count97
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 \Gread@gobject=\count98
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(/etc/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+(/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
 ) (./PPIO_SWJ.aux)
 \openout1 = `PPIO_SWJ.aux'.
 
@@ -143,10 +141,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 54.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+(/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen116
@@ -157,57 +155,9 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 \MPscratchCnt=\count102
 \MPscratchDim=\dimen117
 \MPnumerator=\count103
-\makeMPintoPDFobject=\count104
 \everyMPtoPDFconversion=\toks19
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-\c@sv@footnote=\count105
+\c@sv@footnote=\count104
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <24.88> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -224,11 +174,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 77.
-\c@sv@footnote=\count106
+\c@sv@footnote=\count105
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 100.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
@@ -238,161 +187,107 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 ]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 104.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+(/usr/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 1033) in paragraph at lines 104--105
-\T1/ptm/m/n/10 Web page $\T1/pcr/m/n/10 http : / / pseudomonas-[]syringae .
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []$[]$[]$\T1/pcr/m/n/8 http : / / www . apsnet . org / edcenter / instcomm /
  []
 
 LaTeX Font Info:    Try loading font information for T1+phv on input line 108.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+(/usr/share/texmf-texlive/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-
-Package natbib Warning: Citation `TsHo06a' on page 2 undefined on input line 10
-8.
-
-
-Package natbib Warning: Citation `hermit' on page 2 undefined on input line 108
-.
-
-<PPIO-classes2.png, id=13, 438.8897pt x 469.00218pt>
+<PPIO-classes2.png, id=12, 438.8897pt x 469.00218pt>
 File: PPIO-classes2.png Graphic file (type png)
  <use PPIO-classes2.png>
-Package pdftex.def Info: PPIO-classes2.png used on input line 116.
-(pdftex.def)             Requested size: 230.0pt x 245.78613pt.
-
-Overfull \hbox (13.0pt too wide) in paragraph at lines 116--117
+Overfull \hbox (13.0pt too wide) in paragraph at lines 118--119
  [][] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-[]$[]$[]\T1/ptm/m/n/8 The work-flow can be re-pro-duced at $\T1/pcr/m/n/8 http 
-: / / 70 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-\T1/pcr/m/n/8 33 . 214 . 57 : 8983 / u / alejandroriglesias / w /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-\T1/pcr/m/n/8 / / 70 . 33 . 214 . 57 : 8983 / u / alejandroriglesias / p /
- []
-
-
-Overfull \hbox (94.7002pt too wide) in paragraph at lines 129--129
-\T1/pcr/m/n/8 using-[]galaxy-[]tools-[]in-[]plant-[]pathogen-[]interactions-[]o
-ntology-[]ppio-[]$| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
-[]$[]$[]$\T1/pcr/m/n/8 https : / / github . com / wilkinsonlab /
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]$[]$[]$\T1/pcr/m/n/8 http : / / github . com / mikel-[]egana-[]aranguren /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 []$[]$[]$\T1/pcr/m/n/8 http : / / www . w3 . org / TR / owl2-[]new-[]features /
 
  []
 
 
-Underfull \hbox (badness 857) in paragraph at lines 134--135
+Underfull \hbox (badness 857) in paragraph at lines 136--137
 \T1/ptm/m/n/10 not be di-rectly re-lated with class hi-er-ar-chies
  []
 
 
-Package natbib Warning: Citation `bp_computing' on page 3 undefined on input li
-ne 162.
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 162--163
+Underfull \hbox (badness 1077) in paragraph at lines 164--165
 \T1/ptm/m/n/10 us-ing Manch-ester OWL Syn-tax, \T1/phv/m/n/10 NCBITaxon_552
  []
 
 
-Overfull \hbox (2.43852pt too wide) in paragraph at lines 162--163
+Overfull \hbox (2.43852pt too wide) in paragraph at lines 164--165
 \T1/phv/m/n/10 Types Er-winia amylovora\T1/ptm/m/n/10 , \T1/phv/m/n/10 NCBITaxo
 n_552 causes
  []
 
-<galaxy-workflow.png, id=20, 806.01125pt x 469.755pt>
+<galaxy-workflow.png, id=19, 806.01125pt x 469.755pt>
 File: galaxy-workflow.png Graphic file (type png)
 
 <use galaxy-workflow.png>
-Package pdftex.def Info: galaxy-workflow.png used on input line 165.
-(pdftex.def)             Requested size: 230.0pt x 134.04642pt.
-
-Overfull \hbox (13.0pt too wide) in paragraph at lines 165--167
+Overfull \hbox (13.0pt too wide) in paragraph at lines 167--169
  [][] 
  []
 
-[3 <./PPIO-classes2.png>] [4 <./galaxy-workflow.png>]
-Underfull \hbox (badness 1226) in paragraph at lines 190--191
+[3 <./PPIO-classes2.png>]
+Underfull \hbox (badness 1226) in paragraph at lines 192--193
 \T1/ptm/m/n/10 funded by the Marie Curie-COFUND Pro-gramme
  []
 
-(./PPIO_SWJ.bbl
-Underfull \hbox (badness 849) in paragraph at lines 11--14
-\T1/ptm/m/n/8 sette.  Bio2rdf: To-wards a mashup to build bioin-for-mat-
- []
-
-
-Underfull \hbox (badness 1430) in paragraph at lines 45--49
+[4 <./galaxy-workflow.png (PNG copy)>] (./PPIO_SWJ.bbl
+Underfull \hbox (badness 1430) in paragraph at lines 46--50
 []\T1/ptm/m/n/8 J. Goecks, A. Nekrutenko, J. Tay-lor, and Galaxy Team.
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 72--76
+Underfull \hbox (badness 1173) in paragraph at lines 73--77
 []\T1/ptm/m/n/8 J. Mans-field, S. Genin, S. Magori, V. Citovsky, M. Sri-
  []
 
 )
-
-Package natbib Warning: There were undefined citations.
-
-Extra height:0.0pt when 444.85796pt
-(2)Left:444.85796pt Right:431.71591pt Output:444.85796pt
+Extra height:0.0pt when 486.53395pt
+(2)Left:486.53395pt Right:483.06792pt Output:486.53395pt
 - LAST -
 Extra skip:0.0pt
-Left:444.85796pt
-Right:431.71591pt
-Output:444.85796pt
+Left:486.53395pt
+Right:483.06792pt
+Output:486.53395pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 (./PPIO_SWJ.aux) ) 
 Here is how much of TeX's memory you used:
- 2674 strings out of 495059
- 35001 string characters out of 3182030
- 103628 words of memory out of 3000000
- 5803 multiletter control sequences out of 15000+200000
+ 2103 strings out of 493848
+ 25078 string characters out of 1152824
+ 96895 words of memory out of 3000000
+ 5363 multiletter control sequences out of 15000+50000
  47883 words of font info for 65 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 38i,11n,25p,2371b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PPIO_SWJ.pdf (5 pages, 168977 bytes).
+ 714 hyphenation exceptions out of 8191
+ 27i,11n,25p,2371b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.
+pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/t
+exmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on PPIO_SWJ.pdf (5 pages, 190717 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
